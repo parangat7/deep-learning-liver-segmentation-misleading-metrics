@@ -24,6 +24,16 @@ yet still achieves high Dice scores due to foreground–background imbalance.
 
 ➡️ See: `visualization/Liver_Segmentation.html`
 
+## 🏅 Conference Presentation Certificate
+This research paper was formally presented at an international conference.
+
+- **Conference:** International Conference on Sustainable Developments in Computer Engineering,  
+  Green Technology & Smart Systems (ICSDS-2025)
+- **Dates:** December 20–21, 2025
+- **Organizer:** Hooghly Engineering & Technology College, West Bengal, India
+
+📄 Certificate: `certificate/ICSDS_2025_Presentation_Certificate_Parangat_Thakur.pdf`
+
 ## ⚠️ Important Takeaway
 Quantitative metrics alone are insufficient for medical image segmentation.
 Strict qualitative (visual) validation is mandatory.
