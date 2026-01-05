@@ -34,4 +34,4 @@ MIT License
 ## 🌐 Live Demo (GitHub Pages)
 Interactive HTML visualization demonstrating misleading evaluation metrics:
 
-🔗 https://parangat7.github.io/deep-learning-liver-segmentation-misleading-metrics/
+🔗 https://parangat7.github.io/deep-learning-liver-segmentation-misleading-metrics/Liver_Segmentation.html
