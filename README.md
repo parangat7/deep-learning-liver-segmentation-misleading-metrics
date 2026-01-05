@@ -1,2 +1,32 @@
-# deep-learning-liver-segmentation-misleading-metrics
-A deep learning–based framework for automated liver segmentation using U-Net, with a critical case study demonstrating how Dice score and binary accuracy can be misleading under severe class imbalance in medical image segmentation.
+# A Deep Learning Framework for Automated Liver Segmentation
+
+## 📄 Research Paper
+**Title:** A Deep Learning Framework for Automated Liver Segmentation for Surgical Planning:  
+*A Case Study on Misleading Metrics*
+
+This repository contains the research paper, implementation notebook, and visualization
+for a case study on misleading evaluation metrics in medical image segmentation.
+
+## 🧠 Key Idea
+Despite achieving a high Dice coefficient (~0.91) and binary accuracy (~0.99),
+the trained U-Net model completely failed at liver segmentation.
+This work highlights the dangers of relying solely on quantitative metrics
+under severe class imbalance.
+
+## 📁 Contents
+- `paper/` – Camera-ready research paper (PDF)
+- `notebook/` – Jupyter Notebook implementation
+- `visualization/` – HTML visualization of misleading metrics
+
+## 📊 Misleading Metrics Demonstration
+The model learns to segment the entire patient body instead of the liver,
+yet still achieves high Dice scores due to foreground–background imbalance.
+
+➡️ See: `visualization/Liver_Segmentation.html`
+
+## ⚠️ Important Takeaway
+Quantitative metrics alone are insufficient for medical image segmentation.
+Strict qualitative (visual) validation is mandatory.
+
+## 📜 License
+MIT License
