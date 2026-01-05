@@ -32,7 +32,7 @@ This research paper was formally presented at an international conference.
 - **Dates:** December 20–21, 2025
 - **Organizer:** Hooghly Engineering & Technology College, West Bengal, India
 
-📄 Certificate: `certificate/ICSDS_2025_Presentation_Certificate_Parangat_Thakur.pdf`
+📄 Certificate: `certificate/ICSDS_2025_Presentation_Certificate_Parangat_Thakur`
 
 ## ⚠️ Important Takeaway
 Quantitative metrics alone are insufficient for medical image segmentation.
